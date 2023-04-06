@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    font-family: 'Alkatra', cursive;
+}
+
+
+h1,h2{
+    
+    color: blue;
+}
+h3,p{
+text-align: left;
+
+color: rgb(176, 176, 235);
+}
+img{
+    width: 20%;
+    
+}
